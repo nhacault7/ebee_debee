@@ -17,7 +17,7 @@ MENU_WIDTH=0
 PADDING=0
 
 # Log file for recording events and errors
-LOG_FILE="setup.log"
+LOG_FILE="debug.log"
 
 # Function to log messages to the log file
 log_message() {
