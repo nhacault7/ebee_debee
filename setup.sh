@@ -49,6 +49,8 @@ setup_environment() {
 
     install_figlet
 
+    sudo mkdir results
+
     sleep 1
     if [ -f "ebee-debee.sh" ]; then
         chmod +x ebee-debee.sh
