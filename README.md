@@ -3,7 +3,7 @@
 Inspired by and derived from [Metro](https://github.com/adot8/metro)
 
 ## Installation
-`git https://github.com/nhacault7/ebee_debee.git && cd ebee_debee`
+`git clone https://github.com/nhacault7/ebee_debee.git && cd ebee_debee`
 
 `chmod +x setup.sh`
 
